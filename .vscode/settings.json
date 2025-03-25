@@ -1,0 +1,11 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4D0C5F",
+    "titleBar.activeBackground": "#6C1185",
+    "titleBar.activeForeground": "#FEFBFE"
+  },
+  "files.associations": {
+    "*.css": "\"tailwindcss\"",
+    "fastled.h": "c"
+  }
+}
